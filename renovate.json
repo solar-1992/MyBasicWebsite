@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "assignees":[
+	"solar-1992"
+  ],
+  "automerge": true,
+  "major": {
+    "automerge": false
+  },
+  "devDependencies": {
+    "automerge": true
+  }
+}
