@@ -17,11 +17,11 @@
   },
   "homepage": "https://github.com/solar-1992/MyBasicWebsite#readme",
   "dependencies": {
-    "bootstrap": "^3.4.1",
-    "normalize.css": "^8.0.1"
+    "bootstrap": "3.4.1",
+    "normalize.css": "8.0.1"
   },
   "devDependencies": {
-    "webpack": "^4.29.6",
-    "webpack-cli": "^3.3.0"
+    "webpack": "4.29.6",
+    "webpack-cli": "3.3.0"
   }
 }
