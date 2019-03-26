@@ -18,5 +18,9 @@
   "homepage": "https://github.com/solar-1992/MyBasicWebsite#readme",
   "dependencies": {
     "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
   }
 }
