@@ -12,11 +12,6 @@
   "devDependencies": {
     "automerge": true
   },
-  "schedule": [
-    "after 10pm and before 5am on every weekday"
-  ],
-  "prHourlyLimit": 1,
-  "prConcurrentLimit": 3,
   "labels":[
     "Renovate",
 	"ready for review"
