@@ -20,5 +20,6 @@
   "labels":[
     "Renovate",
 	"ready for review"
-  ]
+  ],
+  "requiredStatusChecks": null
 }
