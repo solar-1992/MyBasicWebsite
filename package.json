@@ -23,7 +23,7 @@
     "image": "1.0.2",
     "moment": "2.24.0",
     "normalize.css": "8.0.1",
-    "pixelmatch": "4.0.0"
+    "pixelmatch": "4.0.2"
   },
   "devDependencies": {
     "webpack": "4.29.6",
